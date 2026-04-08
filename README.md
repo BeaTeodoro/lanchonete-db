@@ -1,4 +1,4 @@
-# Sistema de Pedidos - Lanchonete
+# Sistema de Pedidos - Lanchonete (PostgreSQL)
 
 ## 📌 Sobre o Projeto
 
@@ -65,8 +65,9 @@ O sistema contempla:
 
 ## 🔗 Diagrama
 
-A modelagem pode ser visualizada em:
+![Modelagem](diagrama.png)
 
+A modelagem pode ser visualizada em:
 👉 (https://dbdiagram.io/d/Bias_Dinner-69d6ce910f7c9ef2c0afa0e6)
 
 ---
